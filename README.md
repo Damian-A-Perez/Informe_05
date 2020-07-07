@@ -28,6 +28,8 @@ Para obtener la resitencia equivalente del circuito debemos apagar todas las fue
 
 El voltaje equivalente se calcula quitando la "resitencia de carga" y obteniendo el voltaje entre los terminales que quedaron al quitar la carga con cualquiera de los metodos previamente estudiados. si nombramos a los terminales que nos quedaron A y B el voltaje equivalente es VA-VB.
 
+![Teorema](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/teorema-de-thevenin.jpg)
+
 
 
 
