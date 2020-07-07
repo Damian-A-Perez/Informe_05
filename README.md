@@ -32,6 +32,7 @@ El voltaje equivalente se calcula quitando la "resitencia de carga" y obteniendo
 
 
 4.- Materiales 
+
 ![materiales](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/L5%20MATERIALES.png)
 
 
