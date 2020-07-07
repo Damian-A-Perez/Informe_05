@@ -43,7 +43,7 @@ El voltaje equivalente se calcula quitando la "resitencia de carga" y obteniendo
 
 Circuito Montado
 
-![C2(https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/circuito%20montado%20l5.png)
+![C2](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/circuito%20montado%20l5.png)
 
 5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
