@@ -31,4 +31,5 @@ El voltaje equivalente se calcula quitando la "resitencia de carga" y obteniendo
 
 
 
+
 BIBLIOGRAFIA
