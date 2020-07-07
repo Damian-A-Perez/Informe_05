@@ -39,6 +39,9 @@ El voltaje equivalente se calcula quitando la "resitencia de carga" y obteniendo
 
 5.1 .- Arme el circuito que se muestra en la figura
 
+![Teorema](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/Base%20circuito.png)
+
+
 
 
 
