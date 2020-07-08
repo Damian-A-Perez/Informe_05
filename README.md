@@ -59,12 +59,24 @@ Circuito Montado
 
 6 ANALISIS DEL CIRCUITO
 
+6.1 Tabla 1
+
 | Vth(V)| Rth (ohm)| 
 |  :---:|  :---: | 
 
 |Calculado| 5.055V |Calculado| 298.85ohm|
 |  :---:  | :---:  | :---:   |:---:     |
 |Medido   | 5.056v |Medido   | 299 ohm  |
+
+
+6.2 Tabla 2
+
+| Parametro Elect.| Circt. Original| Circt.Thevenin| 
+|  :---:|  :---: |   :---: | 
+
+|        |Calculado| Medido |Calculado| Medido |
+|Voltaje (V)|  :---:  | :---:  | :---:   |:---:     |
+|Corriente(mA)|       | 5.056v |         | 299 ohm  |
 
 CRONOGRAMA
 
