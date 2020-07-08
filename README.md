@@ -18,6 +18,12 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 2.1 Objetivos especifivos 
 
+2.1.1.- Determine el valor de voltaje y corriente en el resistor R5.
+
+2.1.2.- Entender el teorema de Thévenin dentro de los calculos del circuito
+
+2.1.3.- Demostrar que la tension y la corriente calculados de R5 es igual tanto en el circuito original como en el circuito de Thevenin.
+
 3.- Marco Teórico
 
 El teorema de Thevenin establece que un circuito lineal de dos terminales puede sustituirse por un circuito equivalente formado por una fuente de tensión VTH en serie con una resistencia RTH. Este constituye un procedimiento para sustituir el resto de la red y hacer más simple el cálculo de tensiones y corrientes, en la rama que se desea estudiar de un modo específico. 
