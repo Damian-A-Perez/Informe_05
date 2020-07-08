@@ -64,7 +64,7 @@ Circuito Montado
 | Vth(V)| Rth (ohm)| 
 |  :---:|  :---: | 
 
-|Calculado| 5.055V |Calculado| 298.85ohm|
+|Calculado| 5.06V |Calculado| 298.86ohm|
 |  :---:  | :---:  | :---:   |:---:     |
 |Medido   | 5.056v |Medido   | 299 ohm  |
 
