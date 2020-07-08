@@ -81,9 +81,9 @@ Circuito Montado
 
 CONCLUCIONES
     
-1.- el resultado de los valores en la resitencia 5 son iguales o muy cercanos sea ene l circuito completo o en el equivalente thevenin.
-2.- se comprueba que el teorema de tevenin sirve para el analisis de un elemeto mediante la simplificcion y reemplazo del resto del circuito.
-3.- podemos reemplazar caulquier circuito conocido hasta esta practica con su equivalente sin ningun problema.
+1.- El resultado de los valores en la resitencia 5 son iguales o muy cercanos sea ene l circuito completo o en el equivalente thevenin.
+2.- Se comprueba que el teorema de tevenin sirve para el analisis de un elemeto mediante la simplificcion y reemplazo del resto del circuito.
+3.- Podemos reemplazar caulquier circuito conocido hasta esta practica con su equivalente sin ningun problema.
 
 CRONOGRAMA
 
