@@ -88,3 +88,7 @@ CRONOGRAMA
 BIBLIOGRAFIA
 
 Areatecnologia, viernes, 26 de junio de 2020 . Recuperado de : https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
+
+Fraile Mora,J,2012,Circuitos eléctricos, Madrid,PEARSON EDUCACIÓN, S.A.
+
+
