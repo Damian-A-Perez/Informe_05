@@ -76,8 +76,8 @@ Circuito Montado
 
 |        |Calculado| Medido |Calculado| Medido |
 |:---: |  :---:  | :---:  | :---:   |:---:     |
-|Voltaje (V)|   |  |    |    |
-|Corriente(mA)|       | 5.056v |         | 299 ohm  |
+|Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.89   |
+|Corriente(mA)| 3.894 | 3.89   | 3.89  | 3.89   |
 
 CRONOGRAMA
 
