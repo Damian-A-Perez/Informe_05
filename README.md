@@ -79,6 +79,12 @@ Circuito Montado
 |Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.89   |
 |Corriente(mA)| 3.894 | 3.89   | 3.89  | 3.89   |
 
+CONCLUCIONES
+    
+1.- el resultado de los valores en la resitencia 5 son iguales o muy cercanos sea ene l circuito completo o en el equivalente thevenin.
+2.- se comprueba que el teorema de tevenin sirve para el analisis de un elemeto mediante la simplificcion y reemplazo del resto del circuito.
+3.- podemos reemplazar caulquier circuito conocido hasta esta practica con su equivalente sin ningun problema.
+
 CRONOGRAMA
 
 ![time line](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/crono%20L5.png)
