@@ -60,8 +60,7 @@ Circuito Montado
 6 ANALISIS DEL CIRCUITO
 
 | Vth(V)| Rth (ohm)| 
-|  :---:|  :---: | :---: | 
-
+|  :---:|  :---: | 
 | Calculado |   |Calculado |    |
 |  :---: | :---: | :---: |:---: |
 |952 [mV] |952 [mV]|-6.5272 [v] |-6.53 [v] |
