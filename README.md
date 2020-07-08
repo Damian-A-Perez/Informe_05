@@ -57,6 +57,15 @@ Circuito Montado
 
 5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente. 
 
+6 ANALISIS DEL CIRCUITO
+
+| Vth(V)| Rth (ohm)| 
+|  :---:|  :---: | :---: | 
+
+| Calculado |   |Calculado |    |
+|  :---: | :---: | :---: |:---: |
+|952 [mV] |952 [mV]|-6.5272 [v] |-6.53 [v] |
+
 CRONOGRAMA
 
 ![time line](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/crono%20L5.png)
