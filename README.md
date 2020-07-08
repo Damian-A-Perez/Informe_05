@@ -57,6 +57,8 @@ Circuito Montado
 
 5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente. 
 
+![Calculos](https://github.com/Damian-A-Perez/Informe_05/blob/master/Anexos/Calculos.pdf)
+
 ![Calculo del error](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/Calculo%20del%20error.png)
 
 6 ANALISIS DEL CIRCUITO
