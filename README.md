@@ -64,8 +64,8 @@ Circuito Montado
 
 | Calculado |   |Calculado |    |
 |  :---: | :---: | :---: |:---: |
-|952 [mV] |952 [mV]|-6.5272 [v] |-6.53 [v] |
-
+|Medido |952 [mV]| Medido |-6.53 [v] |
+|  :---: |   | :---: |  |
 CRONOGRAMA
 
 ![time line](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/crono%20L5.png)
