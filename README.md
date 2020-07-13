@@ -51,6 +51,10 @@ Circuito Montado
 
 ![C2](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/circuito%20montado%20l5.png)
 
+circuito thevenin
+
+![Cthvp](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/L5%20circuito%20thevenin%20potenciometro.png)
+
 5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente Ix, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente. 
