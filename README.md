@@ -18,11 +18,11 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 2.1 Objetivos especifivos 
 
-2.1.1.- Determine el valor de voltaje y corriente en el resistor R5.
+2.1.1.- Determinar el valor de voltaje y corriente en el resistor R5.
 
 2.1.2.- Entender el teorema de Thévenin dentro de los calculos del circuito
 
-2.1.3.- Demostrar que la tension y la corriente calculados de R5 es igual tanto en el circuito original como en el circuito de Thevenin.
+2.1.3.- Aclarar que la tension y la corriente calculados de R5 es igual tanto en el circuito original como en el circuito de Thevenin.
 
 3.- Marco Teórico
 
