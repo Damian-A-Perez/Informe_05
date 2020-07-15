@@ -85,6 +85,7 @@ circuito thevenin
 |Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.84   |
 |Corriente(mA)| 3.894 | 3.89   | 3.89  | 3.84   |
 
+![Calculo del error_](https://github.com/Damian-A-Perez/Informe_05/blob/master/Anexos/Calculo%20del%20error_.png)
 CONCLUSIONES
     
 1.- El resultado de los valores en la resitencia 5 son iguales o muy cercanos sea ene l circuito completo o en el equivalente thevenin.
