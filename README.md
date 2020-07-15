@@ -63,8 +63,6 @@ circuito thevenin
 
 ![Calculos](https://github.com/Damian-A-Perez/Informe_05/blob/master/Anexos/Calculos.pdf)
 
-![Calculo del error](https://github.com/Damian-A-Perez/Informe_05/blob/master/Img/Calculo%20del%20error.png)
-
 6 ANALISIS DEL CIRCUITO
 
 6.1 Tabla 1
