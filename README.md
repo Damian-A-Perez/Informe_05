@@ -74,7 +74,7 @@ circuito thevenin
 
 |Calculado| 5.06V |Calculado| 298.86ohm|
 |  :---:  | :---:  | :---:   |:---:     |
-|Medido   | 5.056v |Medido   | 299 ohm  |
+|Medido   | 5.056v |Medido   | 300 ohm  |
 
 
 6.2 Tabla 2
@@ -84,8 +84,8 @@ circuito thevenin
 
 |        |Calculado| Medido |Calculado| Medido |
 |:---: |  :---:  | :---:  | :---:   |:---:     |
-|Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.89   |
-|Corriente(mA)| 3.894 | 3.89   | 3.89  | 3.89   |
+|Voltaje (V)  | 3.894 | 3.89   | 3.89  | 3.84   |
+|Corriente(mA)| 3.894 | 3.89   | 3.89  | 3.84   |
 
 CONCLUSIONES
     
