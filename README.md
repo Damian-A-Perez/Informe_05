@@ -26,7 +26,7 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 3.- Marco Teórico
 
-El teorema de Thevenin establece que un circuito lineal de dos terminales puede sustituirse por un circuito equivalente formado por una fuente de tensión VTH en serie con una resistencia RTH. Este constituye un procedimiento para sustituir el resto de la red y hacer más simple el cálculo de tensiones y corrientes, en la rama que se desea estudiar de un modo específico. 
+El teorema de Thevenin establece que un circuito lineal de dos terminales puede sustituirse por un circuito equivalente formado por una fuente de tensión VTH en serie con una resistencia RTH. Este constituye un procedimiento para sustituir el resto de la red y hacer más simple el cálculo de tensiones y corrientes, en la rama que se desea estudiar de un modo específico. (Mora.J,(2012))
 
 Es decir si en un circuito deseamos saber el voltaje o la corriente que pasa por la resistencia n (nuestra resistencia de carga) desconectamos esa resistencia y buscamos el voltaje y resistencia equivalente.
 
@@ -105,6 +105,6 @@ BIBLIOGRAFIA
 
 -Areatecnologia,(2020),Recuperado de: https://www.areatecnologia.com/electricidad/teorema-de-thevenin-y-norton.html
 
--Mora,J,(2012),Circuitos eléctricos, Madrid,PEARSON EDUCACIÓN, S.A.
+-Mora.J,(2012),Circuitos eléctricos, Madrid,PEARSON EDUCACIÓN, S.A.
 
 
